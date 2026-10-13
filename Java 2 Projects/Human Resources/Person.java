@@ -54,7 +54,7 @@ public class Person
 	@Override
 	public String toString()
 	{
-		return name + "\t" + height + "\t" + weight;
+		return String.format("%s\t%.1f\t%.1f", name, height, weight); //Fixed format for output. 10/13
 	}
 
 	//equals: decides whether two Person objects count as "the same".

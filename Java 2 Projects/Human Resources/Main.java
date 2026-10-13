@@ -1,6 +1,6 @@
 /*
 Name: Ethan Beach
-Assignment: Human Resources Part 1
+Assignment: Human Resources Part 1/2
 Purpose: apply inheritance to objects,implement an interface,apply polymorphism to the class hierarchy,read data from file and create new output files 
 Sources: https://www.geeksforgeeks.org/overriding-equals-method-in-java/ (I did not have much luck in getting it to work for the override.)
 https://www.geeksforgeeks.org/java/java-program-to-insert-details-in-a-table-using-jdbc/ (For inserting details into a database using JDBC, and seeing how that works.)
