@@ -1,4 +1,3 @@
-
 public class Person implements Comparable<Person>
 {
 	//Creates a private string and variable for name, height, and weight
