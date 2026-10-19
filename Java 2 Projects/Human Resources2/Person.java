@@ -32,7 +32,7 @@ public class Person implements Comparable<Person>
 	public double getHeight()
 	{
 		return height;
-	}
+	} 
 
 	public double getWeight()
 	{

@@ -7,4 +7,4 @@ public interface PersonList
 
 	//Returns the Person stored at the given position
 	public Person get(int index);
-}
+} 

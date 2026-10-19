@@ -14,7 +14,7 @@ public class PersonOrderedSet extends PersonSet
 
 	//Sorts the people list using Person's compareTo method
 	private void sort()
-	{
+	{ 
 		Collections.sort(people);
 	}
 }

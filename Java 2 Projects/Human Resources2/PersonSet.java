@@ -40,5 +40,5 @@ public class PersonSet implements PersonList
 			result += p.toString() + "\n";
 		}
 		return result;
-	}
+	} 
 }

@@ -28,7 +28,7 @@ public class Main
 		{
 			fileName = args[0];
 		}
-
+ 
 		//Creates a try/catch block to handle potential file errors
 		try
 		{
