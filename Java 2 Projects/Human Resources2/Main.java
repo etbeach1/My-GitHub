@@ -5,6 +5,7 @@ Purpose: To read a .txt file of names, heights, and weights, and creates two set
 Sources: https://www.geeksforgeeks.org/overriding-equals-method-in-java/ (I did not have much luck in getting it to work for the override.)
 https://www.geeksforgeeks.org/java/java-program-to-insert-details-in-a-table-using-jdbc/ (For inserting details into a database using JDBC, and seeing how that works.)
 https://stackoverflow.com/questions/8180430/how-to-override-equals-method-in-java (More on overriding equals, did not help me figure it out.)
+https://github.com/jsquared21/Intro-to-Java-Programming/blob/master/Exercise_02/Exercise_02_04/Exercise_02_04.java For unit conversion ideas.
 
 */
 
@@ -27,7 +28,7 @@ public class Main
 		{
 			fileName = args[0];
 		}
-
+ 
 		//Creates a try/catch block to handle potential file errors
 		try
 		{
